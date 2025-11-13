@@ -1,4 +1,3 @@
-<div style="display:none;"> </div>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
