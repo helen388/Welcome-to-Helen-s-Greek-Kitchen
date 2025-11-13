@@ -1,6 +1,3 @@
----
-layout: none
----
 <div style="display:none;"> </div>
 <html lang="en">
 <head>
