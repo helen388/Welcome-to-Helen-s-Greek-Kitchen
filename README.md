@@ -2,7 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Helen's Greek Kitchen</title>
 <style>
   body {
     font-family: 'Trebuchet MS', sans-serif;
